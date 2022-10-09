@@ -4,8 +4,6 @@
 
 const { appendFile, read, writeFile, readFile } = require('node:fs/promises');
 
-const last = (x) => x.splice(-1);
-
 class Database {
 
     constructor({ filename }) {
