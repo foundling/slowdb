@@ -1,3 +1,3 @@
-# protodb
+# slowdb
 
-a proto-log-structured-merge-tree key-value store.
+experimental key value store.
